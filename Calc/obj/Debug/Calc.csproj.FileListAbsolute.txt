@@ -1,0 +1,8 @@
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\bin\Debug\Calc.exe.CodeAnalysisLog.xml
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\bin\Debug\Calc.exe.lastcodeanalysissucceeded
+C:\Users\syeds\Documents\Study\UTS\Semester\Spring Semester\32998-NET Application Development\Assgnmt 1\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
